@@ -24,7 +24,7 @@ Desenvolvedor cansado, mas ativo <3
 [![Django](https://img.icons8.com/color/24/000000/django.png)](https://www.djangoproject.com/start/)
 
 ### Banco de Dados
-[![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)](https://www.postgresql.org/docs/)
+[![PostgreSQL](https://img.icons8.com/?size=24&id=38561&format=png&color=000000)](https://www.postgresql.org/docs/)
 [![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png)](https://www.mongodb.com/docs/)
 
 ### Ferramentas e Tecnologias
