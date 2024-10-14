@@ -11,105 +11,29 @@ Desenvolvedor cansado, mas ativo <3
 ## 💪 Minhas Habilidades
 
 ### Linguagens de Programação
-<div style="display: flex; gap: 20px;">
-  <div title="JavaScript" style="position: relative; width: fit-content;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" />
-    </a>
-  </div>
-  <div title="Python" style="position: relative; width: fit-content;">
-    <a href="https://www.python.org/doc/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" />
-    </a>
-  </div>
-  <div title="PHP" style="position: relative; width: fit-content;">
-    <a href="https://www.php.net/docs.php" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/php.png" alt="PHP" />
-    </a>
-  </div>
-  <div title="TypeScript" style="position: relative; width: fit-content;">
-    <a href="https://www.typescriptlang.org/docs/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/typescript.png" alt="TypeScript" />
-    </a>
-  </div>
-</div>
+[![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.icons8.com/color/24/000000/python.png)](https://www.python.org/doc/)
+[![PHP](https://img.icons8.com/color/24/000000/php.png)](https://www.php.net/docs.php)
+[![TypeScript](https://img.icons8.com/color/24/000000/typescript.png)](https://www.typescriptlang.org/docs/)
 
 ### Frameworks e Bibliotecas
-<div style="display: flex; width: 100%; gap: 20px;">
-  <div title="Node.js" style="position: relative;">
-    <a href="https://nodejs.org/en/docs/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/nodejs.png" alt="Node.js" />
-    </a>
-  </div>
-  <div title="React" style="position: relative; width: fit-content;">
-    <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/react-native.png" alt="React" />
-    </a>
-  </div>
-  <div title="Next.js" style="position: relative; width: fit-content;">
-    <a href="https://nextjs.org/docs" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/nextjs.png" alt="Next.js" />
-    </a>
-  </div>
-  <div title="Fastify" style="position: relative; width: fit-content;">
-    <a href="https://www.fastify.io/docs/latest/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/fastify.png" alt="Fastify" />
-    </a>
-  </div>
-  <div title="Django" style="position: relative; width: fit-content;">
-    <a href="https://www.djangoproject.com/start/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/django.png" alt="Django" />
-    </a>
-  </div>
-</div>
+[![Node.js](https://img.icons8.com/color/24/000000/nodejs.png)](https://nodejs.org/en/docs/)
+[![React](https://img.icons8.com/color/24/000000/react-native.png)](https://reactjs.org/docs/getting-started.html)
+[![Next.js](https://img.icons8.com/color/24/000000/nextjs.png)](https://nextjs.org/docs)
+[![Fastify](https://img.icons8.com/color/24/000000/fastify.png)](https://www.fastify.io/docs/latest/)
+[![Django](https://img.icons8.com/color/24/000000/django.png)](https://www.djangoproject.com/start/)
 
 ### Banco de Dados
-<div style="display: flex; width: 100% gap: 20px;">
-  <div title="PostgreSQL" style="position: relative; width: fit-content; width: fit-content;">
-    <a href="https://www.postgresql.org/docs/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/postgresql.png" alt="PostgreSQL" />
-    </a>
-  </div>
-  <div title="MongoDB" style="position: relative; width: fit-content; width: fit-content;">
-    <a href="https://www.mongodb.com/docs/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/mongodb.png" alt="MongoDB" />
-    </a>
-  </div>
-</div>
+[![PostgreSQL](https://img.icons8.com/color/24/000000/postgresql.png)](https://www.postgresql.org/docs/)
+[![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png)](https://www.mongodb.com/docs/)
 
 ### Ferramentas e Tecnologias
-<div style="display: flex; gap: 20px;">
-  <div title="Docker" style="position: relative; width: fit-content;">
-    <a href="https://docs.docker.com/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/docker.png" alt="Docker" />
-    </a>
-  </div>
-  <div title="Git & GitHub" style="position: relative; width: fit-content;">
-    <a href="https://git-scm.com/doc" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git & GitHub" />
-    </a>
-  </div>
-  <div title="APIs RESTful" style="position: relative; width: fit-content;">
-    <a href="https://restfulapi.net/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/api.png" alt="APIs RESTful" />
-    </a>
-  </div>
-  <div title="Styled-components" style="position: relative; width: fit-content;">
-    <a href="https://styled-components.com/docs" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/styled-components.png" alt="Styled-components" />
-    </a>
-  </div>
-  <div title="GraphQL" style="position: relative; width: fit-content;">
-    <a href="https://graphql.org/learn/" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/graphql.png" alt="GraphQL" />
-    </a>
-  </div>
-  <div title="Jest" style="position: relative; width: fit-content;">
-    <a href="https://jestjs.io/docs/getting-started" target="_blank">
-      <img src="https://img.icons8.com/color/24/000000/jest.png" alt="Jest" />
-    </a>
-  </div>
-</div>
+[![Docker](https://img.icons8.com/color/24/000000/docker.png)](https://docs.docker.com/)
+[![Git & GitHub](https://img.icons8.com/color/24/000000/git.png)](https://git-scm.com/doc)
+[![APIs RESTful](https://img.icons8.com/color/24/000000/api.png)](https://restfulapi.net/)
+[![Styled-components](https://img.icons8.com/color/24/000000/styled-components.png)](https://styled-components.com/docs)
+[![GraphQL](https://img.icons8.com/color/24/000000/graphql.png)](https://graphql.org/learn/)
+[![Jest](https://img.icons8.com/color/24/000000/jest.png)](https://jestjs.io/docs/getting-started)
 
 ## 🎯 Projetos em Destaque
 
