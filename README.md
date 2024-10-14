@@ -24,7 +24,7 @@ Desenvolvedor cansado, mas ativo <3
 [![Django](https://img.icons8.com/color/24/000000/django.png)](https://www.djangoproject.com/start/)
 
 ### Banco de Dados
-[![PostgreSQL](https://img.icons8.com/color/24/000000/postgresql.png)](https://www.postgresql.org/docs/)
+[![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)](https://www.postgresql.org/docs/)
 [![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png)](https://www.mongodb.com/docs/)
 
 ### Ferramentas e Tecnologias
@@ -33,7 +33,7 @@ Desenvolvedor cansado, mas ativo <3
 [![APIs RESTful](https://img.icons8.com/color/24/000000/api.png)](https://restfulapi.net/)
 [![Styled-components](https://img.icons8.com/color/24/000000/styled-components.png)](https://styled-components.com/docs)
 [![GraphQL](https://img.icons8.com/color/24/000000/graphql.png)](https://graphql.org/learn/)
-[![Jest](https://img.icons8.com/color/24/000000/jest.png)](https://jestjs.io/docs/getting-started)
+[![Jest](https://jestjs.io/pt-BR/img/favicon/favicon.ico)](https://jestjs.io/docs/getting-started)
 
 ## 🎯 Projetos em Destaque
 
