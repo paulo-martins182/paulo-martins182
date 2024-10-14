@@ -11,29 +11,28 @@ Desenvolvedor cansado, mas ativo <3
 ## 💪 Minhas Habilidades
 
 ### Linguagens de Programação
-[![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.icons8.com/color/24/000000/python.png)](https://www.python.org/doc/)
-[![PHP](https://img.icons8.com/color/24/000000/php.png)](https://www.php.net/docs.php)
-[![TypeScript](https://img.icons8.com/color/24/000000/typescript.png)](https://www.typescriptlang.org/docs/)
+[![JavaScript](https://img.icons8.com/color/26/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.icons8.com/color/26/000000/python.png)](https://www.python.org/doc/)
+[![PHP](https://img.icons8.com/color/26/000000/php.png)](https://www.php.net/docs.php)
+[![TypeScript](https://img.icons8.com/color/26/000000/typescript.png)](https://www.typescriptlang.org/docs/)
 
 ### Frameworks e Bibliotecas
-[![Node.js](https://img.icons8.com/color/24/000000/nodejs.png)](https://nodejs.org/en/docs/)
-[![React](https://img.icons8.com/color/24/000000/react-native.png)](https://reactjs.org/docs/getting-started.html)
-[![Next.js](https://img.icons8.com/color/24/000000/nextjs.png)](https://nextjs.org/docs)
-[![Fastify](https://img.icons8.com/color/24/000000/fastify.png)](https://www.fastify.io/docs/latest/)
-[![Django](https://img.icons8.com/color/24/000000/django.png)](https://www.djangoproject.com/start/)
+[![Node.js](https://img.icons8.com/color/26/000000/nodejs.png)](https://nodejs.org/en/docs/)
+[![React](https://img.icons8.com/color/26/000000/react-native.png)](https://reactjs.org/docs/getting-started.html)
+[![Next.js](https://img.icons8.com/color/26/000000/nextjs.png)](https://nextjs.org/docs)
+[![Django](https://img.icons8.com/color/26/000000/django.png)](https://www.djangoproject.com/start/)
 
 ### Banco de Dados
-[![PostgreSQL](https://img.icons8.com/?size=24&id=38561&format=png&color=000000)](https://www.postgresql.org/docs/)
-[![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png)](https://www.mongodb.com/docs/)
+[![PostgreSQL](https://img.icons8.com/?size=26&id=38561&format=png&color=000000)](https://www.postgresql.org/docs/)
+[![MongoDB](https://img.icons8.com/color/26/000000/mongodb.png)](https://www.mongodb.com/docs/)
 
 ### Ferramentas e Tecnologias
-[![Docker](https://img.icons8.com/color/24/000000/docker.png)](https://docs.docker.com/)
-[![Git & GitHub](https://img.icons8.com/color/24/000000/git.png)](https://git-scm.com/doc)
-[![APIs RESTful](https://img.icons8.com/color/24/000000/api.png)](https://restfulapi.net/)
-[![Styled-components](https://img.icons8.com/color/24/000000/styled-components.png)](https://styled-components.com/docs)
-[![GraphQL](https://img.icons8.com/color/24/000000/graphql.png)](https://graphql.org/learn/)
-[![Jest](https://jestjs.io/pt-BR/img/favicon/favicon.ico)](https://jestjs.io/docs/getting-started)
+[![Docker](https://img.icons8.com/color/26/000000/docker.png)](https://docs.docker.com/)
+[![Git & GitHub](https://img.icons8.com/color/26/000000/git.png)](https://git-scm.com/doc)
+[![APIs RESTful](https://img.icons8.com/color/26/000000/api.png)](https://restfulapi.net/)
+[![Styled-components](https://img.icons8.com/color/26/000000/styled-components.png)](https://styled-components.com/docs)
+[![GraphQL](https://img.icons8.com/color/26/000000/graphql.png)](https://graphql.org/learn/)
+[![Jest](https://img.icons8.com/?size=26&id=bp24DwGXJDyT&format=png&color=000000)](https://jestjs.io/docs/getting-started)
 
 ## 🎯 Projetos em Destaque
 
