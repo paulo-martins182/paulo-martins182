@@ -35,7 +35,7 @@ Desenvolvedor cansado, mas ativo <3
 </div>
 
 ### Frameworks e Bibliotecas
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; width: 100%; gap: 20px;">
   <div title="Node.js" style="position: relative;">
     <a href="https://nodejs.org/en/docs/" target="_blank">
       <img src="https://img.icons8.com/color/24/000000/nodejs.png" alt="Node.js" />
