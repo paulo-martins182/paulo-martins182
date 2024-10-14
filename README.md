@@ -1,6 +1,7 @@
 # Olá, Mundo! 🌍👋
 
-Desenvolvedor cansado, mas ativo <3
+Desenvolvedor proativo que curte muito tecnologia e aprender.
+OBS: (Meu foco de trabalho atualmente é frontend)
 
 ## 🚀 Sobre Mim
 
