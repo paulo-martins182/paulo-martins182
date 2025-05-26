@@ -30,7 +30,7 @@ OBS: (Meu foco de trabalho atualmente é frontend)
 
 ## 🎯 Projetos em Destaque
 
-### 🌐 [Portfolio](https://paulo-martins.vercel.app/)
+### 🌐 [Portfolio]((https://port-repo-psi.vercel.app/#))
 - **Descrição**: Um portfolio simples.
 - **Tecnologias**: NextJS.
 - **Destaques**: sempre atualizo ele com componentes novos, estilização diferente, utilizo para testes.
