@@ -13,7 +13,8 @@ OBS: (Meu foco de trabalho atualmente é frontend)
 
 [![JavaScript](https://img.icons8.com/color/26/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TailwindCss](https://img.icons8.com/?size=26&id=CIAZz2CYc6Kc&format=png&color=000000)]
-[!Storybook](https://img.icons8.com/?size=26&id=5YDtlBFCcJag&format=png&color=000000)
+
+[![Storybook](https://img.icons8.com/?size=26&id=5YDtlBFCcJag&format=png&color=000000)]()
 [![PHP](https://img.icons8.com/color/26/000000/php.png)](https://www.php.net/docs.php)
 [![TypeScript](https://img.icons8.com/color/26/000000/typescript.png)](https://www.typescriptlang.org/docs/)
 [![Node.js](https://img.icons8.com/color/26/000000/nodejs.png)](https://nodejs.org/en/docs/)
