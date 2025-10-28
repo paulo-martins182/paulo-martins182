@@ -1,13 +1,13 @@
-# Olá, Mundo! 🌍👋
+# Olá 👋
 
-Desenvolvedor proativo que curte muito tecnologia e aprender.
-OBS: (Meu foco de trabalho atualmente é frontend)
+Me considero um Desenvolvedor proativo que curte muito a tecnologia e com visão de negocio.
+OBS: (Meu foco de trabalho atualmente é frontend, mas consigo me virar bem no backend)
 
 ## 🚀 Sobre Mim
 
-- 💼 **Experiência**: 7 anos trabalhando em projetos desafiadores.
-- 🌱 **Atualmente Aprendendo**: Foco em **Dropshipping** e **Otimização de Lojas Virtuais** para a LATAM.
-- 🤖 **Tecnologias Favoritas**: Node.js, Drizzle, Next.js, OpenAI, e tudo relacionado a inovação!
+- 💼 **Experiência**: 6+ anos trabalhando em projetos no Brasil e na Irlanda.
+- 🌱 **Atualmente Aprendendo**: Foco em implementações de IA no front tanto apps web quanto native.
+- 🤖 **Tecnologias Favoritas**: NodeJS, NextJS, Storybook e Cypress
 
 ## 💪 Minhas Habilidades
 
