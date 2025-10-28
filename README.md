@@ -12,13 +12,13 @@ OBS: (Meu foco de trabalho atualmente é frontend)
 ## 💪 Minhas Habilidades
 
 [![JavaScript](https://img.icons8.com/color/26/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.icons8.com/color/26/000000/python.png)](https://www.python.org/doc/)
+[![TailwindCss](https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000)]
+[![Storybook](https://img.icons8.com/?size=100&id=5YDtlBFCcJag&format=png&color=000000)]
 [![PHP](https://img.icons8.com/color/26/000000/php.png)](https://www.php.net/docs.php)
 [![TypeScript](https://img.icons8.com/color/26/000000/typescript.png)](https://www.typescriptlang.org/docs/)
 [![Node.js](https://img.icons8.com/color/26/000000/nodejs.png)](https://nodejs.org/en/docs/)
 [![React](https://img.icons8.com/color/26/000000/react-native.png)](https://reactjs.org/docs/getting-started.html)
 [![Next.js](https://img.icons8.com/color/26/000000/nextjs.png)](https://nextjs.org/docs)
-[![Django](https://img.icons8.com/color/26/000000/django.png)](https://www.djangoproject.com/start/)
 [![PostgreSQL](https://img.icons8.com/?size=26&id=38561&format=png&color=000000)](https://www.postgresql.org/docs/)
 [![MongoDB](https://img.icons8.com/color/26/000000/mongodb.png)](https://www.mongodb.com/docs/)
 [![Docker](https://img.icons8.com/color/26/000000/docker.png)](https://docs.docker.com/)
@@ -33,7 +33,6 @@ OBS: (Meu foco de trabalho atualmente é frontend)
 ### 🌐 [Portfolio](https://port-repo-psi.vercel.app/)
 - **Descrição**: Um portfolio simples.
 - **Tecnologias**: NextJS.
-- **Destaques**: sempre atualizo ele com componentes novos, estilização diferente, utilizo para testes.
 
 
 ## 💡 Curiosidades sobre Mim
@@ -46,4 +45,3 @@ OBS: (Meu foco de trabalho atualmente é frontend)
 
 Sinta-se à vontade para me contatar para colaborações, projetos ou apenas para trocar ideias sobre tecnologia e empreendedorismo! Estou sempre aberto a novas conexões e oportunidades. 💬
 
-**Vamos juntos transformar ideias em realidade!**
